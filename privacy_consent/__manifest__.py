@@ -7,7 +7,7 @@
     "version": "18.0.1.0.0",
     "development_status": "Production/Stable",
     "category": "Privacy",
-    "website": "https://github.com/OCA/data-protection",
+    "website": "https://vertel.se/apps/odoo-oca-data-protection/privacy_consent",
     "author": "Tecnativa, initOS GmbH, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,

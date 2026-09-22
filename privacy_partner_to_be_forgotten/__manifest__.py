@@ -9,7 +9,7 @@
     "summary": "Anonymize partner data for GDPR compliance",
     "author": "Cetmix, Odoo Community Association (OCA)",
     "license": "LGPL-3",
-    "website": "https://github.com/OCA/data-protection",
+    "website": "https://vertel.se/apps/odoo-oca-data-protection/privacy_partner_to_be_forgotten",
     "depends": ["contacts"],
     "data": [
         "security/security.xml",
